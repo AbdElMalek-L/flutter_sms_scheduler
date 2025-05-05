@@ -1,8 +1,8 @@
 name: flutter_sms_scheduler
 description: "A new Flutter plugin project."
 version: 0.0.1
-homepage: https://example.com # Replace with your actual homepage
-repository: https://github.com/example/flutter_sms_scheduler # Replace with your actual repository URL
+homepage: https://github.com/AbdElMalek-L/flutter_sms_scheduler
+repository: https://github.com/AbdElMalek-L/flutter_sms_scheduler
 
 environment:
   sdk: ^3.7.2
